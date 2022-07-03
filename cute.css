@@ -1,12 +1,24 @@
 body{
     background-color: skyblue;
-    margin: 30px 20px;
-    border: 5px 10px;
+    margin: 10px 10px;
+    border: 5px solid yellow;
     padding: 30px 60px;
 }
 h1{
+    background-color: aliceblue;
     text-align: center;
 }
 span{
     background-color: azure;
+}
+p{
+    text-align: justify;
+    font-size: 1rem;
+}
+#sweet{
+    padding: 2px 1px;
+    border: 2px solid aliceblue;
+    border-radius: 2em;
+    box-sizing: content-box;
+    margin: 5px 10px;
 }
